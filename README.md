@@ -115,5 +115,3 @@ Types and helpers
 - `AES.GCM.Nonce.data`: Data view of a nonce.
 - `UInt64.bigEndianData`: Big-endian byte representation.
 
-## Local Git
-This repo is initialized at `/Users/ole/Desktop/KREO` and is ready to commit and push.
